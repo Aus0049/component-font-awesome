@@ -1,6 +1,6 @@
 {
   "name": "component-font-awesome",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "package font-awesome component in react",
   "main": "index.js",
   "style": "index.css",
@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/Aus0049/component-font-awesome#readme",
   "files": [
-    "lib"
+    "lib",
+    "index.css"
   ],
   "dependencies": {
     "classnames": "^2.2.5",
