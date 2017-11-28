@@ -5,11 +5,11 @@ import React from 'react'
 import classNames from 'classnames'
 
 const Icon = (props) => {
-    const {prefixCls, type, style} = props;
+    const {prefixCls, className, type, style} = props;
 
     return (
         <span
-            className={classNames([prefixCls, 'fa', `fa-${type}`])}
+            className={classNames([prefixCls, 'fa', `fa-${type}`, className])}
             style={style}
         />
     )

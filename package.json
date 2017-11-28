@@ -1,6 +1,6 @@
 {
   "name": "component-font-awesome",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "package font-awesome component in react",
   "main": "index.js",
   "style": "index.css",
