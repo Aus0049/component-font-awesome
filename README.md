@@ -1,2 +1,2 @@
 # component-font-awesome
-package font-awesome  in react
+package font-awesome component in react
