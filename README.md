@@ -2,8 +2,8 @@
 
 package font-awesome component in react
 将font awesome封装成React组件 简化使用
-[![NPM version](https://img.shields.io/npm/v/component-font-awesome?style=flat)](https://www.npmjs.org/package/component-font-awesome)
-[![Build Status](https://travis-ci.org/Aus0049/component-font-awesome?branch=master)](https://travis-ci.org/Aus-0049/component-font-awesome)
+[![NPM version](https://img.shields.io/npm/v/component-font-awesome.svg?style=flat)](https://www.npmjs.org/package/component-font-awesome)
+[![Build Status](https://travis-ci.org/Aus0049/component-font-awesome.svg?branch=master)](https://travis-ci.org/Aus-0049/component-font-awesome)
 # Install
 
 [![component-font-awesome](https://nodei.co/npm/component-font-awesome.png)](https://npmjs.org/package/component-font-awesome)
