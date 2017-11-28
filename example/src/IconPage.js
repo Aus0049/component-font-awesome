@@ -7,8 +7,12 @@ import 'font-awesome/css/font-awesome.css'
 
 const IconPage = () => {
     return (
-        <div className="page button">
+        <div className="page">
             <Icon type="bath" />
+            <Icon type="plane" />
+            <Icon type="subway" />
+            <Icon type="amazon" />
+            <Icon type="chrome" />
         </div>
     )
 };

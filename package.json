@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "package font-awesome component in react",
   "main": "index.js",
+  "style": "index.css",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack",

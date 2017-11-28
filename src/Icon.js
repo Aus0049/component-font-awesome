@@ -16,7 +16,7 @@ const Icon = (props) => {
 };
 
 Icon.propTypes = {
-    type: React.PropTypes.string, // icon类型
+    type: React.PropTypes.string.isRequired, // icon类型
     prefixCls: React.PropTypes.string, // 前缀class
     className: React.PropTypes.string, // 自定义class
     style: React.PropTypes.object // 自定义样式
